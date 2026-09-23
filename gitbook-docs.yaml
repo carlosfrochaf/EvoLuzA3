@@ -1,3 +1,6 @@
 site:
   title: Evoluz — Irrigação Inteligente
   description: Irrigação Inteligente com IA, Energia Solar e Evapotranspiração
+  structure:
+    - title: Documentação
+      path: ./
