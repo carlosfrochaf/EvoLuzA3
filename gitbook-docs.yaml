@@ -1,6 +1,10 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Evoluz — Irrigação Inteligente
-  description: Irrigação Inteligente com IA, Energia Solar e Evapotranspiração
   structure:
-    - title: Documentação
-      path: ./
+    - type: space
+      key: evoluz-docs
+      title: Documentação Evoluz
+      path: ""
+      content:
+        directory: ./
