@@ -5,6 +5,7 @@ site:
     - type: space
       key: evoluz-docs
       title: Documentação Evoluz
-      path: ""
+      path: docs
+      default: true
       content:
         directory: ./
